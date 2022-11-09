@@ -1,0 +1,33 @@
+[
+    {
+        "id": 238,
+        "adult": true,
+        "title": "The Godfather",
+        "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "release_date": "1972-03-14",
+        "vote_count": 16871,
+        "vote_average": 8.6,
+        "original_language", "en"
+    },
+    {
+        "id": 424,
+        "adult": true,
+        "title": "Schindler's List",
+        "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "release_date": "1993-12-15",
+        "vote_count": 13426,
+        "vote_average": 8.6,
+        "original_language", "en"
+    },
+    {
+        "id": 19404,
+        "adult": true,
+        "title": "Dilwale Dulhania Le Jayenge",
+        "poster": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+        "release_date": "1995-10-19",
+        "vote_count": 3938,
+        "vote_average": 8.6,
+        "original_language", "hi"
+    }
+]
+

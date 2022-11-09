@@ -1,0 +1,38 @@
+{
+    "page": 100,
+    "total_pages": 100,
+    "results": [
+        {
+            "id": 389,
+            "adult": false,
+            "title": "12 Angry Men",
+            "poster": "/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+            "release_date": "1957-04-10",
+            "vote_count": 6778,
+            "vote_average": 8.5,
+            "original_language", "en"
+        },
+        {
+            "id": 155,
+            "adult": false,
+            "title": "The Dark Knight",
+            "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "release_date": "2008-07-14",
+            "vote_count": 28543,
+            "vote_average": 8.5,
+            "original_language", "ja"
+        },
+        {
+            "id": 497,
+            "adult": false,
+            "title": "The Green Mile",
+            "poster": "/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
+            "release_date": "1999-12-10",
+            "vote_count": 14591,
+            "vote_average": 8.5,
+            "original_language", "hi"
+        }
+    ]
+}
+
+

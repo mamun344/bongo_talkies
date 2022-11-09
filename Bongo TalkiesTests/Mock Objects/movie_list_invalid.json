@@ -1,0 +1,23 @@
+{
+    "page": 1,
+    "total_pages": "100",
+    "results": [
+        {
+            "id": 238,
+            "title": "The Godfather",
+            "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+            "release_date": "1972-03-14",
+            "vote_count": 16871,
+            "vote_average": 8.6,
+        },
+        {
+            "id": "424",
+            "adult": true,
+            "title": "Schindler's List",
+            "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "release_date": "1993-12-15",
+            "vote_count": 13426,
+            "vote_average": 8.6,
+        }
+    ]
+}
